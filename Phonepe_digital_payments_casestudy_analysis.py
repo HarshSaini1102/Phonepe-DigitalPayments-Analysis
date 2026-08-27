@@ -228,7 +228,7 @@ identical = district_level_data.equals(State_level_data)
 print(f'Is state level data identical to district {identical}')
 
 #finding any discrepency between district and statelevel data
-#pd.testing.assert_frame_equal(district_level_data, State_level_data,check_dtype=False)
+pd.testing.assert_frame_equal(district_level_data, State_level_data,check_dtype=False)
 
 #merging state_txn_users and district demographics to find the ratio of registered users and population
 merge_state_txn_users_district = pd.merge(State_Txn_users,District_Demographics,how='inner',on='State')
