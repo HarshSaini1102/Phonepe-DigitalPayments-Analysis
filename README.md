@@ -19,4 +19,5 @@ By combining time-series transaction records with demographic statistics, the st
 ### 🛠️ Tech Stack
 
 **Python | Pandas | Numpy | Matplotlib | Seaborn | Data Analysis | Data Visualization | Statistics**
-.xlsx - Source datasets
+
+**.xlsx - Source datasets**
