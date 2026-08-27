@@ -1,7 +1,4 @@
-# 📊 Digital Transaction & Demographic Analysis
-
-An end-to-end data analysis project exploring **digital transaction trends across Indian states and districts**. The project involves data cleaning, transformation, and merging of demographic and transaction datasets to uncover meaningful business insights.
-# Regional Digital Payment Dynamics & Demographic Analysis
+# 📊 Regional Digital Payment Dynamics & Demographic Analysis
 
 ## Overview
 
